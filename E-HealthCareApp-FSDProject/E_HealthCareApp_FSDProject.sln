@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_HealthCareApp_FSDProject", "E_HealthCareApp_FSDProject.csproj", "{E29B0F1D-C1EB-41AB-BB0D-BC8F623EDC0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FSD_Backend_UnitTest", "..\BackendTest\FSD_Backend_UnitTest.csproj", "{77AE94EF-F3F2-49AB-B392-436FD17908DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E29B0F1D-C1EB-41AB-BB0D-BC8F623EDC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29B0F1D-C1EB-41AB-BB0D-BC8F623EDC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29B0F1D-C1EB-41AB-BB0D-BC8F623EDC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29B0F1D-C1EB-41AB-BB0D-BC8F623EDC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AE94EF-F3F2-49AB-B392-436FD17908DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AE94EF-F3F2-49AB-B392-436FD17908DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AE94EF-F3F2-49AB-B392-436FD17908DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AE94EF-F3F2-49AB-B392-436FD17908DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32018DCB-8322-4328-A00D-40032F7FEEDA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44460",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\rajenp4\\OneDrive - Dell Technologies\\FSD Materials\\Project\\Full Stack Development Project\\E-HealthCare-Capstone\\E-HealthCareApp-FSDProject\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
